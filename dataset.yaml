@@ -508,3 +508,63 @@
   name: AdsBot-Google
   type: full
   category: crawler
+
+- label: GPTBot
+  name: GPTBot
+  type: full
+  category: crawler
+
+- label: ChatGPT-User
+  name: ChatGPT-User
+  type: full
+  category: crawler
+
+- label: OAI-SearchBot
+  name: OAI-SearchBot
+  type: full
+  category: crawler
+
+- label: ClaudeBot
+  name: ClaudeBot
+  type: full
+  category: crawler
+
+- label: Claude-Web
+  name: Claude-Web
+  type: full
+  category: crawler
+
+- label: Anthropic-AI
+  name: Anthropic-AI
+  type: full
+  category: crawler
+
+- label: PerplexityBot
+  name: PerplexityBot
+  type: full
+  category: crawler
+
+- label: Cohere-AI
+  name: Cohere-AI
+  type: full
+  category: crawler
+
+- label: YouBot
+  name: YouBot
+  type: full
+  category: crawler
+
+- label: Google-Extended
+  name: Google-Extended
+  type: full
+  category: crawler
+
+- label: Applebot-Extended
+  name: Applebot-Extended
+  type: full
+  category: crawler
+
+- label: Amzn-User
+  name: Amzn-User
+  type: full
+  category: crawler

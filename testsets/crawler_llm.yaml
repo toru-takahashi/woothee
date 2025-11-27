@@ -1,0 +1,67 @@
+# OpenAI Crawlers
+- target: 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)'
+  name: GPTBot
+  os: UNKNOWN
+  category: crawler
+
+- target: 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)'
+  name: ChatGPT-User
+  os: UNKNOWN
+  category: crawler
+
+- target: 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot'
+  name: OAI-SearchBot
+  os: UNKNOWN
+  category: crawler
+
+# Anthropic Crawlers
+- target: 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)'
+  name: ClaudeBot
+  os: UNKNOWN
+  category: crawler
+
+- target: 'Claude-Web/1.0 (web crawler; +https://www.anthropic.com/; bots@anthropic.com)'
+  name: Claude-Web
+  os: UNKNOWN
+  category: crawler
+
+- target: 'anthropic-ai'
+  name: Anthropic-AI
+  os: UNKNOWN
+  category: crawler
+
+# Perplexity Crawlers
+- target: 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)'
+  name: PerplexityBot
+  os: UNKNOWN
+  category: crawler
+
+# Cohere AI Search/Training
+- target: 'Mozilla/5.0 (compatible; Cohere-AI/1.0; +https://cohere.com/)'
+  name: Cohere-AI
+  os: UNKNOWN
+  category: crawler
+
+# You.com AI Search
+- target: 'Mozilla/5.0 (compatible; YouBot/1.0; +https://you.com/bot)'
+  name: YouBot
+  os: UNKNOWN
+  category: crawler
+
+# Google AI Training
+- target: 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) Google-Extended'
+  name: Google-Extended
+  os: UNKNOWN
+  category: crawler
+
+# Apple AI Training
+- target: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 Applebot-Extended'
+  name: Applebot-Extended
+  os: UNKNOWN
+  category: crawler
+
+# Amazon AI Search (Alexa)
+- target: 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amzn-User/0.1) Chrome/119.0.6045.214 Safari/537.36'
+  name: Amzn-User
+  os: UNKNOWN
+  category: crawler
